@@ -1,0 +1,1 @@
+Uncharted 4: A Thief's End! What an incredible game! I mean, Naughty Dog really outdid themselves with that one. The storytelling, the characters, the set pieces... everything about it is just top-notch. And that ending, wow! I won't spoil it for anyone who hasn't played it, but let's just say it's an emotional rollercoaster. What's your favorite part about Uncharted 4?
