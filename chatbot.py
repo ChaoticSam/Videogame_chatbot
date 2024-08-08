@@ -9,7 +9,7 @@ from typing_extensions import TypedDict
 from typing import List
 
 # Setup environment
-os.environ["GROQ_API_KEY"] = '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'
+os.environ["GROQ_API_KEY"] = 'GROQ_API_KEY'
 
 GROQ_LLM = ChatGroq(model="llama3-70b-8192")
 
