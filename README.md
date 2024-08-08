@@ -10,17 +10,18 @@ This project implements a conversational chatbot that only talks about video gam
 ## Setup
 ### Installation
 
-1. **Clone the repository:**
+1. ** Add your own GROQ_API_KEY**
+2. **Clone the repository:**
    ```bash
    git clone https://github.com/your-repo/video-game-chatbot.git
    cd video-game-chatbot
-2. **Create the environment**
+3. **Create the environment**
    ```bash
      .venv\Scripts\activate
-3. **Download all the required packages**
+4. **Download all the required packages**
    ```bash
      pip install langgraph langchain
-4. **run the script**
+5. **run the script**
    ```bash
    python chatbot.py
    
