@@ -1,6 +1,6 @@
 # Video Game Chatbot
 
-This project implements a conversational chatbot that only talks about video games LangGraph. This chatbot can give you latest news and updates about your favourite games in some seconds. Interesting, right!
+This project implements a conversational chatbot that only talks about video games. This chatbot can give you latest news and updates about your favourite games in few seconds. Interesting, right!
 
 ## Features
 
